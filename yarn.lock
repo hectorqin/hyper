@@ -6671,10 +6671,10 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-recast@0.21.1:
-  version "0.21.1"
-  resolved "https://registry.npmjs.org/recast/-/recast-0.21.1.tgz#9b3f4f68c1fe9c1513a1c02ff572fdef02231de2"
-  integrity sha512-PF61BHLaOGF5oIKTpSrDM6Qfy2d7DIx5qblgqG+wjqHuFH97OgAqBYFIJwEuHTrM6pQGT17IJ8D0C/jVu/0tig==
+recast@0.21.5:
+  version "0.21.5"
+  resolved "https://registry.npmjs.org/recast/-/recast-0.21.5.tgz#e8cd22bb51bcd6130e54f87955d33a2b2e57b495"
+  integrity sha512-hjMmLaUXAm1hIuTqOdeYObMslq/q+Xff6QE3Y2P+uoHAg2nmVlLBps2hzh1UJDdMtDTMXOFewK6ky51JQIeECg==
   dependencies:
     ast-types "0.15.2"
     esprima "~4.0.0"
